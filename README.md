@@ -1,2 +1,2 @@
 # Street-View-Character-Recognition
-阿里天池赛题
+来自 阿里天池大赛
